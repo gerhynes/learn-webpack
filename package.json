@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/GK-Hynes/learn-webpack#readme",
   "devDependencies": {
+    "css-loader": "^2.1.1",
+    "style-loader": "^0.23.1",
     "webpack": "^4.32.1",
     "webpack-cli": "^3.3.2"
   }
